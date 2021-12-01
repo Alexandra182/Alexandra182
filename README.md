@@ -15,7 +15,7 @@
 <img img align='right' src="supercap.gif" width="140"/>
 
 ### 📫 Links:
-- [Instagram](https://www.instagram.com/paintyouwings182/)
+- [Instagram](https://www.instagram.com/alexandra.covor/)
 - [LinkedIn](https://www.linkedin.com/in/alexandra-covor/)
 - [Twitter](https://twitter.com/AlexandraCovor)
 - [Hackster](https://www.hackster.io/alexandracovor)
